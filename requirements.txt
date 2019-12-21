@@ -1,5 +1,8 @@
 easydict==1.6
-joblib==0.10.3
-numpy==1.14.4
-Pillow==4.0.0
-tensorflow-gpu==1.4.0
+joblib==0.12
+numpy==1.16.0
+Pillow==4.3.0
+tensorflow==1.14.0
+tensorflow-gpu==1.14.0
+tensorflow-estimator==1.14.0
+tensorboard==1.14.0
